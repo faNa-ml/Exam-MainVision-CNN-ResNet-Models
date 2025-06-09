@@ -132,9 +132,4 @@ LEARNING_RATE_TRANSFER = 0.0001
 3. Training starts for both models.
 4. Final metrics and performance reports are displayed.
 
----
-
-## 📜 License
-
-This project is for educational and research purposes. Always cite the dataset provider if used in publications.
 
